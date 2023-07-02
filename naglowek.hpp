@@ -1,0 +1,9 @@
+void TasowanieGracz();
+void SprawdzanieGracz();
+void TasowanieBot1();
+void SprawdzanieBot1();
+void TasowanieBot2();
+void SprawdzanieBot2();
+void Rozgrywka();
+void Instrukcja();
+void Menu();
